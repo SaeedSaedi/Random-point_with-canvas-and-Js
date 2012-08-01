@@ -1,0 +1,12 @@
+*{
+	padding: 0px;
+	margin : 0px;
+}
+body{
+	background-color: black;
+}
+#box{
+	border          :1px solid black;
+	margin-left     :250px;	
+	background-color:black;
+}
